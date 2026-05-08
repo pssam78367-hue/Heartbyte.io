@@ -1,8 +1,10 @@
 # 🔱 Heartbyte.io: PORE v2.0 Tactical Coordination
-
-[![Product Version](https://shields.io)](https://heartbyte.io)
-[![License](https://shields.io)](LICENSE.md)
-[![Architect](https://shields.io)](https://github.com)
+ https://shields.io
+[![Product Version]()](https://heartbyte.io)https://shields.io
+[![License]()](LICENSE.md)
+[![Architect]()](LICENSE.md)
+[![Architect]()](LICENSE.md)
+[![Architect](https://shields.io)](https://github.com )
 
 ## 🏛️ OVERVIEW
 **Heartbyte.io** is a high-fidelity, proof-based coordination ecosystem. Built on the **PORE v2 (Predictive Operational Relay Engine)** architecture, this platform bridges the gap between digital telemetry and physical humanitarian action.
