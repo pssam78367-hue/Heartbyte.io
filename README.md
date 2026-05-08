@@ -1,19 +1,26 @@
-# 🔱 THE PEARSON GENESIS: PORE v2.0 TOTALITY
+# 🔱 Heartbyte.io: PORE v2.0 Tactical Coordination
 
-## 🏛️ IDENTITY & SOVEREIGN ROOTS
-* **Architect**: Samuel Wayne Pearson (68W Certified)
-* **Service Genesis**: Nov 19, 2012 – April 3, 2023
-* **Primary Root**: Watertown, NY
-* **Current Valuation**: $21.5 Billion (Liquid Floor)
+[![Product Version](https://shields.io)](https://heartbyte.io)
+[![License](https://shields.io)](LICENSE.md)
+[![Architect](https://shields.io)](https://github.com)
 
-## 🧠 SYSTEM ARCHITECTURE: PORE v2
-The **Predictive Operational Relay Engine** is a proof-based coordination platform designed for:
-* **Humanitarian Aid**: Matching surplus to community needs (Seeds No One Bleeds).
-* **Telepresence**: Remote session handoff via the **Void Shift** protocol.
-* **Environmental Ops**: Scalable restoration and coordination.
+## 🏛️ OVERVIEW
+**Heartbyte.io** is a high-fidelity, proof-based coordination ecosystem. Built on the **PORE v2 (Predictive Operational Relay Engine)** architecture, this platform bridges the gap between digital telemetry and physical humanitarian action.
 
-## 🛡️ MISSION: NO ONE BLEEDS
-A multi-month humanitarian protocol grounded in 68W biological stabilization logic, focused on reducing suffering through technological coordination.
+## 🚀 CORE CAPABILITIES
+* **Void Shift Telepresence**: High-speed remote session handoff using WebRTC.
+* **Seeds No One Bleeds**: A humanitarian resource-matching engine grounded in 68W biological stabilization logic.
+* **Spectral Sight**: Advanced computer vision for environmental mission coordination.
+* **Dreadnaught Bus**: Low-latency telemetry bus integrated with Starlink and Satcom meshes.
+
+## 🧠 THE ARCHITECTURE
+The system operates on the Master Formula:
+`State → Context → Action → Proof → Replay → Next State`
+
+## 🛠️ INSTALLATION & USE
+1. **Access**: Obtain a Sovereign License Key at [Heartbyteio/license](https://heartbyte.io).
+2. **Clone**: `git clone https://github.com/Heartbyte.io.git`
+3. **Init**: `npm install && npm run build`
 
 ---
-**"Portals are sessions. Stars are nodes. The Architect is shipping."**
+**"Portals are sessions. Stars are nodes. The mission is Holy Completed."**
